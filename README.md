@@ -1,4 +1,2 @@
 # genderize
-how to genderize a sql database using R Studio 
-
-This is a way of how to assing gender to names in spanish. Sometimes in a db we have the incorrect gender for a person or my neither have a gender. Gender is variable that can usefull when doing ML. 
+Code for assing correct gender with only given name. I works mainly with names in spanish a a few names in enlgish. 
